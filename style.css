@@ -1,0 +1,49 @@
+/* Global styles */
+body {
+    font-family: 'Noto Sans Thai', 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  h1, h2, h5 {
+    color: #2c3e50;
+  }
+  
+  .btn-custom {
+    background-color: #f39c12; /* สีส้ม */
+    color: white;
+  }
+  
+  .btn-custom:hover {
+    background-color: #e67e22; /* สีส้มเข้ม */
+  }
+  
+  .featurette-divider {
+    margin: 4rem 0;
+  }
+  
+  .rounded-img {
+    border-radius: 10px;
+  }
+  
+  /* Footer styles */
+  footer {
+    padding: 2rem 0;
+    background: #f39c12; /* สีส้ม */
+    color: white;
+    text-align: center;
+  }
+  
+  /* Navbar styles */
+  nav.navbar {
+    background-color: #f39c12; /* สีส้ม */
+  }
+  
+  nav.navbar .nav-link {
+    color: white;
+  }
+  
+  nav.navbar .nav-link:hover {
+    color: #e67e22; /* สีส้มเข้ม */
+  }
+  
