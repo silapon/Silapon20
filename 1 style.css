@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; /* ทำให้เนื้อหาสูงเท่ากับหน้าจอ */
+    display: flex; /* ใช้ flexbox */
+    align-items: center; /* จัดให้อยู่ตรงกลางแนวตั้ง */
+    justify-content: center; /* จัดให้อยู่ตรงกลางแนวนอน */
+    background: rgb(0, 0, 0); /* พื้นหลังสีดำ */
+    color: white; /* ให้ตัวหนังสือเป็นสีขาวเพื่อมองเห็นได้ */
+    text-align: center;
+}
